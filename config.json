@@ -1,0 +1,12 @@
+{
+  "youtube_api_secret_file": "client_secrets.json",
+  "intro_video": "intro.mp4",
+  "default_thumbnail": "https://example.com/default.jpg",
+  "forbidden_keywords": ["banned", "copyright", "violence"],
+  "categories": {
+    "funny": ["funny clips", "funny fails"],
+    "tech": ["latest tech", "gadget reviews"]
+  },
+  "tags": ["fun", "technology", "daily uploads"],
+  "category_id": "22"
+}
